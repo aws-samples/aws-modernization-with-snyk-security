@@ -13,8 +13,8 @@ Snyk empowers software-driven businesses to develop fast and stay secure. Snyk o
 
 ==== Snyk Container and Amazon ECR
 
-Snyk integrates with Amazon ECR to help you import projects and monitor containers for vulnerabilities. Snyk tests your imported projects for known security vulnerabilities at a frequency that you control. Integration with Amazon ECR is available for all pricing plans. For more information, see https://snyk.io/product/container-vulnerability-management/[Snyk Container^].
+Snyk integrates with Amazon ECR to help you import projects and monitor containers for vulnerabilities. Snyk tests your imported projects for known security vulnerabilities at a frequency that you control. Integration with Amazon ECR is available for all pricing plans. For more information, see https://docs.snyk.io/products/snyk-container/image-scanning-library/ecr-image-scanning/configure-integration-for-amazon-elastic-container-registry-ecr[Snyk's documentation on integrating with Amazon ECR'^].
 
 ==== Snyk Open Source and AWS Lambda
 
-Snyk integrates with AWS Lambda to help you monitor your deployed AWS Lambda resources. With this integration, you can scan Lambda functions deployed to your AWS account and start managing the security of your code by identifying vulnerabilities and getting fix advice.
+Snyk integrates with AWS Lambda to help you monitor your deployed AWS Lambda resources. With this integration, you can scan Lambda functions deployed to your AWS account and start managing the security of your code by identifying vulnerabilities and getting fix advice. For more information, see https://docs.snyk.io/features/integrations/serverless-integrations/aws-lambda-integration[Snyk's documentation on integrating with AWS Lambda'^].
