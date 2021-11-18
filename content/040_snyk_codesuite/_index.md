@@ -1,5 +1,5 @@
 ---
-title: "Snyk Integration with CodeSuite"
+title: "Integration with CodeSuite"
 chapter: true
 draft: false
 weight: 5
