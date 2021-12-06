@@ -7,7 +7,7 @@ weight: 12
 # What is the problem
 
 ## What is Software Composition Analysis(SCA)?
-Software Composition Analysis(SCA) is a segment of application security testing that deals with managing the open source components used in a project. SCA tools perfrom automated scans of an app's code base including related artifacts such as containers and registries, to identify all open source components, their license compliance data, and any security vulnerabilities.
+Software Composition Analysis (SCA) is a segment of application security testing that deals with managing the open source components used in a project. SCA tools perfrom automated scans of an app's code base including related artifacts such as containers and registries, to identify all open source components, their license compliance data, and any security vulnerabilities.
 
 ## Problem to solve
 As developers continue to write code, software packages are used. These software packages then in turn utilize other open source packages. The developers are focused on making their code work, through functionalities provided by these software packages. As code packages are authored by people around the world, with varied backgrounds, the diligence towards code's security is not necessarily consistent. 

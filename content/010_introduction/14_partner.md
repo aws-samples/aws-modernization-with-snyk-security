@@ -3,7 +3,7 @@ title: "Who is this partner?"
 chapter: true
 weight: 14
 ---
-<a href="https://snyk.io/" target="_blank"><img src="/images/snyk-logo-solid-background.png"></a>
+<a href="https://snyk.co/AWSMP-Workshop" target="_blank"><img src="/images/snyk-logo-solid-background.png"></a>
 
 # About Snyk
 
