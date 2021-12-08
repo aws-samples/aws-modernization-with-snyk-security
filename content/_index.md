@@ -24,4 +24,4 @@ The examples and sample code provided in this workshop are intended to be consum
 
 Snyk is available in AWS Marketplace. AWS Marketplace is a digital software catalog that makes it easy to find, try, buy, deploy, and manage software that runs on AWS. AWS Marketplace has a broad and deep selection of ISV solutions that can help you build your ideal DevOps toolchain in the cloud.
 
-<a href="https://aws.amazon.com/marketplace/pp/B07PZY3369?&trk=el_a134p000003yrYeAAI&trkCampaign=AWSMP_pdp_dev_x_dg&sc_channel=el&sc_campaign=el_awsmp_mult&sc_outcome=Marketplace" target="_blank"><img src="/images/snyk-available-in-aws-marketplace-bage.png"></a>
+<a href="https://aws.amazon.com/marketplace/pp/prodview-65u3lqx5evvry?sr=0-1&ref_=beagle&applicationId=AWSMPContessa" target="_blank"><img src="/images/snyk-available-in-aws-marketplace-bage.png"></a>
