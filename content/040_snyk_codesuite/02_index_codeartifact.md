@@ -150,7 +150,7 @@ With the repository configured, run ```pip install aws-cdk.core``` to pull down 
 ![Snyk CodeArtifact Packages](/images/codeartifact-packages.png "packages")
 
 ### 6. Setting up CDK
-To Deploy the cdk resources, clone down the workshop base. Navigate to `workshop-resources/cdk/snyk-codesuite-cdk`. Once in the repo initialize the virtual env and run
+To Deploy the cdk resources, clone down the workshop <a href="https://github.com/aws-samples/aws-modernization-with-snyk-security">github</a>. Navigate to `workshop-resources/cdk/snyk-codesuite-cdk`. Once in the repo initialize the virtual env and run
 ```
 pip install -r requirements.txt
 ```
