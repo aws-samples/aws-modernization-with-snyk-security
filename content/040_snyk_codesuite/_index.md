@@ -15,4 +15,4 @@ In this section we have three sections:
 
 Each section has its own set of prerequisities and can be performed individually without any dependencies on other sections. You can either choose to do all sections or a specific section to your liking.
 
-All code resources referenced are available <a href="https://github.com/aws-samples/aws-modernization-with-snyk-security">here</a> under the `workshop-resources` folder.c
+All code resources referenced are available <a href="https://github.com/aws-samples/aws-modernization-with-snyk-security">here</a> under the `workshop-resources` folder.
