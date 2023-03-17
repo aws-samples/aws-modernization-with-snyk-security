@@ -1,5 +1,5 @@
 ---
-title: "Integration with CodeSuite"
+title: "Integration with Code Services"
 chapter: true
 draft: false
 weight: 5
