@@ -15,7 +15,7 @@ The Snyk platform secures all of the critical components of today's cloud native
 Snyk's security platform is powered by its industry-leading proprietary vulnerability database, maintained by the expert Snyk security research team, that also powers security solutions from strategic partners such as Atlassian, Datadog, Docker, IBM Cloud, Rapid7, Red Hat and Trend Micro. The company works with global customers of all sizes to empower developers to automatically integrate security throughout their existing workflows.
 
 ## Key Differentiators 
-**Empowered developers:** Snyk’s developer- first and friendly tools, integrated with development tools where developers work, makes it easy for developers to implement security.
+**Empowered developers:** Snyk’s developer-first and friendly tools, integrated with development tools where developers work, makes it easy for developers to implement security.
 
 **Automated fixes:** Algorithm-based fix technology with automation processes to implement fix recommendations as part of development.
 
