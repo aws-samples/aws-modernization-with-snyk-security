@@ -113,7 +113,7 @@ Click on the project name, this will take you to the detailed view of which pack
 
 In this view you get the details of the vulnerability found by Snyk, you also get recommendations on how these vulnerability can be remediated. 
 
-If you have used the sample `requirements.txt` mentioned above, you will see the pyyaml package vulnerability can be remediated by upgrading the version to `PyYAML==5.4`. 
+If you have used the sample `requirements.txt` mentioned above, you will see the py yaml package vulnerability can be remediated by upgrading the version to `PyYAML==5.4`. 
 
 Go back to your CodeCommit repo and commit the change to the version as recommended by Snyk. This new commit triggers the CodePipeline again. 
 
