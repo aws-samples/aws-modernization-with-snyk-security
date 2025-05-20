@@ -1,6 +1,37 @@
+*.swp
+*.*~
+project.lock.json
 .DS_Store
-.dccache 
-*/.DS_Store
-resources/.DS_Store
-resources/_gen/.DS_Store
-./idea/*
+*.pyc
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio
+.vs/
+.vscode/
+
+# JetBrains IDEs
+.idea
+
+# Node Modules
+node_modules/
+public/
